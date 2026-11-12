@@ -8,7 +8,7 @@ U.S. citizen, based in New Cairo, Egypt; I work remotely across all U.S. time zo
 
 | Project | What it is | Status |
 |---|---|---|
-| **[Hasad](https://github.com/raheemgk/hasad)** | Nutrition, meal-planning and food-budget app for many languages and countries' home cooking, starting with English, Arabic and Egyptian dishes. Flutter, Supabase, an AI gateway where the app checks every AI suggestion, offline first, 2,700+ tests | In development (Phases 0–3 of 9 done) |
+| **[Hasad](https://github.com/raheemgk/hasad)** | Nutrition, meal-planning and food-budget app for many languages and countries' home cooking, starting with English, Arabic and Egyptian dishes. Flutter, Supabase, an AI gateway where the app checks every AI suggestion, offline first, photos never stored, 3,000+ tests | In development (Phases 0–4 of 9 done) |
 | **[LockedIn](https://apps.microsoft.com/detail/9mv2zjjtf4j9)** | Windows app that switches a whole PC setup in one click: apps, windows, display, audio, theme and more | Live on the Microsoft Store |
 | **Namat** | Offline-first Arabic/English personal assistant (schedule, tasks, habits, budget). Flutter and SQLite | Prototype |
 
